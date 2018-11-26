@@ -1,3 +1,4 @@
 print("Hello world")
 "hjkhkj"
-"line 3"
+
+print("Test etst")
